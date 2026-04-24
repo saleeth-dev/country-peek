@@ -1,0 +1,5 @@
+START
+   INPUT number
+   cube <- number * number * number
+   OUTPUT "cube of the number is:",cube
+END

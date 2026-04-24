@@ -1,0 +1,50 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.title {
+    text-align: center;
+    padding: 2rem 0;
+    font-size: 2.5rem;
+    background-color: #333;
+    color: white;
+    text-transform: uppercase;
+}
+
+.searchtext {
+    display: block;
+    margin: 0 auto;
+    padding: 0.5rem 1rem;
+    font-size: 1.2rem;
+    width: 100%;
+    border: 2px solid #333;
+    border-radius: 5px;
+    margin-top: 1rem;
+}
+
+.searchbtn {
+    display: block;
+    margin: 1rem auto;
+    padding: 0.5rem 1rem;
+    font-size: 1.2rem;
+    background-color: brown;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.github-name {
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 2rem;
+    color: purple;
+}
+
+.github-img {
+    margin: 1rem auto;
+    width: 100%;
+    border-radius: 50%;
+}

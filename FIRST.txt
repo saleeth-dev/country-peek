@@ -1,0 +1,10 @@
+START
+  // INPUT take three num
+     From i to 100
+     if (5 - 4)=1
+  then (4 - 3)=1
+  now  (3 -2)=1
+   we get three no 
+END IF 
+    OUTPUT Reverse
+END

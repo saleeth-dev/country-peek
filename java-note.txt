@@ -1,0 +1,42 @@
+string in java:
+
+1. text.length() => we get length of string
+
+2. text.UpperCase() => we get Upper Case
+
+3. text.LowerCase() => we get Lower Case
+
+4. text.indexOf() => we get position of index(position)
+
+5. text.charAt() => we get position of letter
+
+6. text.equals() => we can check whether two things are equal or unequal
+
+7. text.trim() =>  removes whitespace from the beginning and the end of a string
+
+8. concat() => it can add togather two words
+
+9. \" text \"  => we get double slasshed word
+
+10.  \\   => when i put slash i get single slash n sentence
+
+11. Math.max(5, 10) => we can get highest of this ans: 10
+
+12. Math.min(5, 10) => we get lowest number ans: 5
+
+13. Math.sqrt(64) => we get square root ans: 8.0
+
+14. Math.abs(-4.9) => we get absulute value
+
+15. Math.pow(2, 8) => Here we get power of 2
+
+16. Math.round(4.6) => we get round figure of number ans: 5
+
+17. Math.ceil(4.1) => we get low value
+
+18. Math.floor(4.9) => we get floor value ans:4.0
+
+19. substring we can assign any value.
+
+20.  
+    
